@@ -6,12 +6,12 @@ PO - Marcelo Ricardo Fernandes
 SM - Rafael Trevizoli
 
 ## Integrantes
-Danillo Fernandes da Costa
-Danilo Vasconcelos
-Guilherme Agostin
-Gustavo Castro
-Lucas Rodrigues
-Vanessa Cordeiro Gonçalves de Oliveira
+- Danillo Fernandes da Costa
+- Danilo Vasconcelos
+- Guilherme Agostin
+- Gustavo Castro
+- Lucas Rodrigues
+- Vanessa Cordeiro Gonçalves de Oliveira
 
 ## GitHub
 Marcelo - https://github.com/MarceloRicardoFernandes
