@@ -16,7 +16,7 @@ SM - Rafael Trevizoli
 ## GitHub
 Marcelo - https://github.com/MarceloRicardoFernandes  
 Rafael - https://github.com/rtrevizoli  
-Danillo -   
+Danillo - https://github.com/Geolioon  
 Danilo - https://github.com/dannslima  
 Guilherme - https://github.com/GuilhermeAgostin  
 Gustavo - https://github.com/gustavocastrow  
