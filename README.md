@@ -28,3 +28,11 @@ Check | Data          | Momento
 [ ]   | 08/11 a 28/11 | Sprint 4;
 [ ]   | 29/11 a 05/12 | Apresentação Final;
 [ ]   | 16/12 às 19h  | Feira de Soluções.
+
+### Refs
+[Scrum](https://www.voitto.com.br/blog/artigo/scrum);  
+[Planning Poker](https://www.voitto.com.br/blog/artigov2/planning-poker);  
+[Git Branches](https://medium.com/@luizcarvalho/modelo-de-ger%C3%AAncia-de-branchs-de-sucesso-para-git-54955f876c7).  
+
+### Model
+[scrum-poker-planning by Hazem Ben Khalfallah](https://github.com/Hazem-Ben-Khalfallah/scrum-poker-planning).
