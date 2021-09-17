@@ -1,13 +1,13 @@
-package com.fatec.renegados.mvp;
+package com.fatec.renegados.scrum;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MvpApplication {
+public class ScrumApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MvpApplication.class, args);
+		SpringApplication.run(ScrumApplication.class, args);
 	}
 
 }
