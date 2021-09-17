@@ -10,8 +10,7 @@ SM - [Rafael Trevizoli](https://github.com/rtrevizoli).
 - [Danilo Vasconcelos](https://github.com/dannslima);  
 - [Guilherme Agostin](https://github.com/GuilhermeAgostin);  
 - [Gustavo Castro](https://github.com/gustavocastrow);  
-- [Lucas Rodrigues](https://github.com/LucasMonteiiroo);  
-- [Vanessa Cordeiro Gonçalves de Oliveira](https://github.com/vanessacordeiro).  
+- [Lucas Rodrigues](https://github.com/LucasMonteiiroo).  
 
 ## GitHub
 Organization:   [DDGGLMVR](https://github.com/DDGGLMVR/);  
