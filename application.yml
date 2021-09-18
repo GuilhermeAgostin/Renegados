@@ -1,0 +1,13 @@
+app:
+    name: Scrum API
+    api:
+        title: Scrum Rest API
+        version: 1.0.0
+        groupname: scrum-api
+        description: Please be welcome to browse our Scrum REST API
+        basePackage: com.fatec.renegados.scrum.controller
+        contactName: Renegados
+        contactUrl: null
+        contactEmail: null
+        swagger:
+            enable: true

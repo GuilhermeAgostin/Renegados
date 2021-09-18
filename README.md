@@ -10,8 +10,7 @@ SM - [Rafael Trevizoli](https://github.com/rtrevizoli).
 - [Danilo Vasconcelos](https://github.com/dannslima);  
 - [Guilherme Agostin](https://github.com/GuilhermeAgostin);  
 - [Gustavo Castro](https://github.com/gustavocastrow);  
-- [Lucas Rodrigues](https://github.com/LucasMonteiiroo);  
-- [Vanessa Cordeiro Gonçalves de Oliveira](https://github.com/vanessacordeiro).  
+- [Lucas Rodrigues](https://github.com/LucasMonteiiroo).  
 
 ## GitHub
 Organization:   [DDGGLMVR](https://github.com/DDGGLMVR/);  
@@ -29,10 +28,16 @@ Check | Data          | Momento
 [ ]   | 29/11 a 05/12 | Apresentação Final;
 [ ]   | 16/12 às 19h  | Feira de Soluções.
 
-### Refs
+## Refs
 [Scrum](https://www.voitto.com.br/blog/artigo/scrum);  
 [Planning Poker](https://www.voitto.com.br/blog/artigov2/planning-poker);  
 [Git Branches](https://medium.com/@luizcarvalho/modelo-de-ger%C3%AAncia-de-branchs-de-sucesso-para-git-54955f876c7).  
 
-### Model
+## Model
 [scrum-poker-planning by Hazem Ben Khalfallah](https://github.com/Hazem-Ben-Khalfallah/scrum-poker-planning).
+
+## Databe Docker Image
+Download and install Docker to start Database
+```bash
+docker run --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d mysql:8.0.23
+```
