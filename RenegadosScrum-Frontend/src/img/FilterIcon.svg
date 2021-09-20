@@ -1,0 +1,5 @@
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.541693 1.67498C2.22503 3.83331 5.33336 7.83331 5.33336 7.83331V12.8333C5.33336 13.2916 5.70836 13.6666 6.16669 13.6666H7.83336C8.29169 13.6666 8.66669 13.2916 8.66669 12.8333V7.83331C8.66669 7.83331 11.7667 3.83331 13.45 1.67498C13.875 1.12498 13.4834 0.333313 12.7917 0.333313H1.20003C0.50836 0.333313 0.116693 1.12498 0.541693 1.67498Z" fill="currentColor" stroke="currentColor"/>
+</svg>
+
+<!-- Para conseguir adicionar qualquer cor no svg devo adicionar as seguintes props:  fill="currentColor" stroke="currentColor"  -->
